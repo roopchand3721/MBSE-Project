@@ -1,2 +1,2 @@
 # MBSE-Project
-file reltead t software component and corresponding inputs
+file reltead to software component and corresponding inputs
